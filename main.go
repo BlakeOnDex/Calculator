@@ -29,5 +29,5 @@ func main() {
 	} else {
 		fmt.Println("invalid symbol")
 	}
-
+	fmt.Scanln()
 }
